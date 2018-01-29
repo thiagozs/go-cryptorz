@@ -1,7 +1,7 @@
-go-cryptorz - enocder / decoder
+go-cryptorz - encoder / decoder
 ---
 
-Test with encode some string by cypher, base64 and AES.
+Encode and Decode some data with cypher, base64 and AES.
 
 Usage:
 ```golang
